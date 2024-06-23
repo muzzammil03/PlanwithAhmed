@@ -1,5 +1,5 @@
 Clone the Repository,
-git clone -- https://github.com/your-username/ourtestimonials.git
+git clone -- https://github.com/your-username/PlanwithAhmed.git
 
 Install Dependencies -- npm install
 
